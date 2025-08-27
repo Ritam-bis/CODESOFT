@@ -1,5 +1,5 @@
 import os
-
+#our objective is to make a command line based todo list 
 class TodoApp:
     def __init__(self):
         self.tasks = []
@@ -96,3 +96,4 @@ class TodoApp:
 if __name__ == "__main__":
     app = TodoApp()
     app.run()
+
