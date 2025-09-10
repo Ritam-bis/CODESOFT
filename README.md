@@ -72,24 +72,7 @@ python rock_paper_scissors.py
 
 ---
 
-## 🚀 Getting Started
 
-To get started with any of these applications, follow these steps:
-
-1. Clone this repository:
-
-   ```bash
-   git clone https://github.com/lordlughas/CODSOFT.git
-   ```
-2. Navigate to the project folder:
-
-   ```bash
-   cd CODSOFT
-   cd project-name   # e.g., cd simple_calculator
-   ```
-3. Run the main script as described in the individual project section.
-
----
 
 ## 🤝 Contributing
 
