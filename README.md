@@ -46,18 +46,6 @@ python calculator.py
 
 ---
 
-## 🔐 Password Generator
-
-**Description:**
-The Password Generator creates strong, random passwords. Users can specify the **length** of the password. This project provides experience with **random number generation** and **string manipulation**.
-
-**Usage:**
-
-```bash
-python password_generator.py
-```
-
----
 
 ## ✊ Rock, Paper, Scissors Game
 
